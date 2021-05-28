@@ -11,7 +11,7 @@ greet_strings = ['Hello {0}!', 'Hey {0}!',
 
 gaali_strings_hindi = ['string1', 'string2', 'string3']
 
-roast_strings = ['{0} is what the result of a broken rubber balloon looks like',
+roast_strings = ['{0} is the role model of what not to be',
                  'Kids, study well if you dont want to end up like {0}!',
                  'Too bad, you can\'t photoshop an ugly personality (like yours), {0}']
 
